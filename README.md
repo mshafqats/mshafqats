@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with different time zone teams
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **mohdshafqatsiddiqui1@gmail.com**
-- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I once built a fully functional web app in a weekend just to solve a personal problem!**
 
 <br>
