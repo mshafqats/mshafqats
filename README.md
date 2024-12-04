@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with different time zone teams
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **mohdshafqatsiddiqui1@gmail.com**
-- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I once built a fully functional web app in a weekend just to solve a personal problem!**
 
 <br>
@@ -53,6 +52,14 @@ In addition to my technical expertise, I am passionate about learning new langua
 <br><br>
 I am actively seeking opportunities as a Python Developer, Full-Stack Developer, or in roles focused on Django and web application development. Let's connect and discuss how I can contribute to your team!
 </p>
+
+<br>
+<br>
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshafqats&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshafqats&layout=compact&theme=radical)
 
 <br>
 <br>
