@@ -29,7 +29,7 @@
 ## Who am I
 <p>
 Experienced Software Developer with 2+ years of hands-on experience in developing scalable, high-performance applications and systems. I specialize in full-stack development and have worked extensively with Python, Ruby on Rails, and other modern frameworks and technologies like Django. I thrive on solving complex problems, enhancing user experiences, and contributing to innovative projects.
-<br>
+<br><br>
 Currently collaborating on key projects, focusing on developing intuitive user interfaces and optimizing back-end processes. Working alongside talented tech teams has enriched my approach to software architecture, design patterns, and agile methodologies
 <br><br>
 Areas of Expertise<br>
@@ -50,7 +50,7 @@ Additional Skills:<br>
 • Debugging & performance tuning
 <br><br>
 In addition to my technical expertise, I am passionate about learning new languages and frameworks. Outside of work, I enjoy designing games, creating websites, and experimenting with new recipes in the kitchen.
-<br>
+<br><br>
 I am actively seeking opportunities as a Python Developer, Full-Stack Developer, or in roles focused on Django and web application development. Let's connect and discuss how I can contribute to your team!
 </p>
 
