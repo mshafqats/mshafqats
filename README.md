@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=33&pause=500&color=4A0790&center=true&vCenter=true&width=435&lines=Hi+There%F0%9F%91%8B;I'm+Mohammad+Shafqat+Siddiqui" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=33&pause=500&color=4A0790&center=true&vCenter=true&width=450&lines=Hi+There%F0%9F%91%8B;I'm+Mohammad+Shafqat+Siddiqui" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on **Python - Django**
 - 🌱 I’m currently learning more about Python Library's
