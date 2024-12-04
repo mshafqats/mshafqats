@@ -56,6 +56,11 @@ I am actively seeking opportunities as a Python Developer, Full-Stack Developer,
 
 <br>
 <br>
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawsar-shubham&layout=compact&theme=radical)
+
+<br>
+<br>
 
 ### ✍️ Favorite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)<br/><br/>
