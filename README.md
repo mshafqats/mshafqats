@@ -32,22 +32,21 @@ Experienced Software Developer with 2+ years of hands-on experience in developin
 <br>
 Currently collaborating on key projects, focusing on developing intuitive user interfaces and optimizing back-end processes. Working alongside talented tech teams has enriched my approach to software architecture, design patterns, and agile methodologies
 <br>
-Areas of expertise:
-- Python (Django)
-- Ruby on Rails
-- JavaScript (React)
-- HTML, CSS, Bootstrap
-- MySQL, PostgreSQL, SQLite
-- RESTful APIs, GraphQL
-- Version control (Git, GitHub)
-- PHP, C#
+• Python (Django)
+• Ruby on Rails
+• JavaScript (React)
+• HTML, CSS, Bootstrap
+• MySQL, PostgreSQL, SQLite
+• RESTful APIs, GraphQL
+• Version control (Git, GitHub)
+• PHP, C#
 <br>
 Additional Skills:
-- Game development
-- Website design and deployment
-- Agile & Scrum methodologies
-- Problem-solving & troubleshooting
-- Debugging & performance tuning
+• Game development
+• Website design and deployment
+• Agile & Scrum methodologies
+• Problem-solving & troubleshooting
+• Debugging & performance tuning
 <br>
 In addition to my technical expertise, I am passionate about learning new languages and frameworks. Outside of work, I enjoy designing games, creating websites, and experimenting with new recipes in the kitchen.
 <br>
