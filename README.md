@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-    <a href="https://mshafqats.netlify.app" target="blank"><img align="center" src="imgs/website.png" alt="mshafqats-hackerearth" height="30" width="20" /></a>
+    <a href="https://mshafqats.netlify.app" target="blank"><img align="center" src="imgs/website.png" alt="mshafqats-hackerearth" height="30" width="30" /></a>
     <a href="https://www.hackerearth.com/@mshafqats/" target="blank"><img align="center" src="imgs/hackerearth.svg" alt="mshafqats-hackerearth" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/mohammad-shafqat-siddiqui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mshafqats-linkedin" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/22464539/mohammad-shafqat-siddiqui" target="blank"><img align="center" src="imgs/stackoverflow.svg" alt="mshafqats-stackoverflow" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
     <a href="https://www.facebook.com/mohdshafqat.siddiqui.5/" target="blank"><img align="center" src="imgs/facebook.svg" alt="mshafqats-facebook" height="30" width="40" /></a>
     <a href="https://www.behance.net/mshafqats" target="blank"><img align="center" src="imgs/behance.svg" alt="mshafqats-behance" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/profile/mohdshafqatsidd1" target="blank"><img align="center" src="imgs/hackerrank.svg" alt="mshafqats-hackerrank" height="30" width="40" /></a>
-    <a href="https://mshafqats.netlify.app" target="blank"><img align="center" src="imgs/medium2.png" alt="mshafqats-medium" height="30" width="80" /></a>
+    <a href="https://mshafqats.netlify.app" target="blank"><img align="center" src="imgs/medium.png" alt="mshafqats-medium" height="30" width="80" /></a>
 </p>
 
 <br>
