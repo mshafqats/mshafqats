@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with different time zone teams
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **mohdshafqatsiddiqui1@gmail.com**
-- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I once built a fully functional web app in a weekend just to solve a personal problem!**
 
 <br>
@@ -29,31 +28,39 @@
 
 ## Who am I
 <p>
-    Experienced Software Developer with 2+ years of hands-on experience in developing scalable, high-performance applications and systems. I specialize in full-stack development and have worked extensively with Python, Ruby on Rails, and other modern frameworks and technologies like Django. I thrive on solving complex problems, enhancing user experiences, and contributing to innovative projects.
-    <br>
-    Currently collaborating on key projects, focusing on developing intuitive user interfaces and optimizing back-end processes. Working alongside talented tech teams has enriched my approach to software architecture, design patterns, and agile methodologies
-    <br>
-    Areas of expertise:
-    - Python (Django)
-    - Ruby on Rails
-    - JavaScript (React)
-    - HTML, CSS, Bootstrap
-    - MySQL, PostgreSQL, SQLite
-    - RESTful APIs, GraphQL
-    - Version control (Git, GitHub)
-    - PHP, C#
-    <br>
-    Additional Skills:
-    - Game development
-    - Website design and deployment
-    - Agile & Scrum methodologies
-    - Problem-solving & troubleshooting
-    - Debugging & performance tuning
-    <br>
-    In addition to my technical expertise, I am passionate about learning new languages and frameworks. Outside of work, I enjoy designing games, creating websites, and experimenting with new recipes in the kitchen.
-    <br>
-    I am actively seeking opportunities as a Python Developer, Full-Stack Developer, or in roles focused on Django and web application development. Let's connect and discuss how I can contribute to your team!
+Experienced Software Developer with 2+ years of hands-on experience in developing scalable, high-performance applications and systems. I specialize in full-stack development and have worked extensively with Python, Ruby on Rails, and other modern frameworks and technologies like Django. I thrive on solving complex problems, enhancing user experiences, and contributing to innovative projects.
+<br><br>
+Currently collaborating on key projects, focusing on developing intuitive user interfaces and optimizing back-end processes. Working alongside talented tech teams has enriched my approach to software architecture, design patterns, and agile methodologies
+<br><br>
+Areas of Expertise<br>
+• Python (Django)<br>
+• Ruby on Rails<br>
+• JavaScript (React)<br>
+• HTML, CSS, Bootstrap<br>
+• MySQL, PostgreSQL, SQLite<br>
+• RESTful APIs, GraphQL<br>
+• Version control (Git, GitHub)<br>
+• PHP, C#
+<br><br>
+Additional Skills:<br>
+• Game development<br>
+• Website design and deployment<br>
+• Agile & Scrum methodologies<br>
+• Problem-solving & troubleshooting<br>
+• Debugging & performance tuning
+<br><br>
+In addition to my technical expertise, I am passionate about learning new languages and frameworks. Outside of work, I enjoy designing games, creating websites, and experimenting with new recipes in the kitchen.
+<br><br>
+I am actively seeking opportunities as a Python Developer, Full-Stack Developer, or in roles focused on Django and web application development. Let's connect and discuss how I can contribute to your team!
 </p>
+
+<br>
+<br>
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshafqats&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshafqats&layout=compact&theme=radical)
 
 <br>
 <br>
