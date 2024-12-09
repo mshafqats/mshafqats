@@ -20,7 +20,7 @@
     <a href="https://www.behance.net/mshafqats" target="blank"><img align="center" src="imgs/behance.svg" alt="mshafqats-behance" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/profile/mohdshafqatsidd1" target="blank"><img align="center" src="imgs/hackerrank.svg" alt="mshafqats-hackerrank" height="30" width="40" /></a>
     <a href="https://mshafqats.netlify.app" target="blank"><img align="center" src="imgs/web-profile.svg" alt="mshafqats-web-profile" height="30" width="40" /></a>
-    <a href="https://mshafqats.netlify.app" target="blank"><img align="center" src="imgs/medium2.png" alt="mshafqats-medium" height="30" width="40" /></a>
+    <a href="https://mshafqats.netlify.app" target="blank"><img align="center" src="imgs/medium2.png" alt="mshafqats-medium" height="30" width="70" /></a>
 </p>
 
 <br>
