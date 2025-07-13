@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=33&pause=500&color=4A0790&center=true&vCenter=true&width=550&lines=Hi+There%F0%9F%91%8B;I'm+Mohammad+Shafqat+Siddiqui" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on **Python - Django**
-- 🌱 I’m currently learning more about Python Library's
+- 🔭 I’m currently working as a Tech lead in an statup and creating a **product from scratch**
 - 👯 I’m looking to collaborate with different time zone teams
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **mohdshafqatsiddiqui1@gmail.com**
@@ -28,32 +27,40 @@
 
 ## Who am I
 <p>
-Experienced Software Developer with 2+ years of hands-on experience in developing scalable, high-performance applications and systems. I specialize in full-stack development and have worked extensively with Python, Ruby on Rails, and other modern frameworks and technologies like Django. I thrive on solving complex problems, enhancing user experiences, and contributing to innovative projects.
+I’m a Full-Stack Developer with DevOps experience and Tech Lead at an early-stage startup, where I’m building the entire product from the ground up — owning everything from backend architecture to user experience, deployment, integrations, and infrastructure.
 <br><br>
-Currently collaborating on key projects, focusing on developing intuitive user interfaces and optimizing back-end processes. Working alongside talented tech teams has enriched my approach to software architecture, design patterns, and agile methodologies
+I lead the technical direction, build scalable web applications and implement systems that support real business growth. This includes:
 <br><br>
-Areas of Expertise<br>
+• Designing and developing the product from scratch<br>
+• Implementing multiple payment gateways (PayPal + Stripe + Square)<br>
+• Setting up user verification systems for security and trust<br>
+• Integrating cloud services (AWS, Google APIs, Twilio)<br>
+• Procuring and managing third-party tools that power the product<br>
+• Ensuring the system is production-ready, fast, and secure<br>
+<br><br>
+With 3+ years of hands-on experience, I specialize in Python and Django for the backend, React for the frontend and AWS for deployment and scalability. I'm a problem-solver at heart, passionate about building real-world solutions with impact.
+<br><br>
+Tech Stack & Tools I've Worked With:<br>
 • Python (Django)<br>
-• Ruby on Rails<br>
-• JavaScript (React)<br>
-• HTML, CSS, Bootstrap<br>
-• MySQL, PostgreSQL, SQLite<br>
-• RESTful APIs, GraphQL<br>
-• Version control (Git, GitHub)<br>
-• PHP, C#
+• Celery<br>
+• AWS<br>
+• PostgreSQL<br>
+• Google APIs<br>
+• Twilio<br>
+• Payment Gateways (PayPal, Stripe, Square)<br>
+• React<br>
+• Git/GitHub<br>
 <br><br>
 Additional Skills:<br>
 • Game development<br>
-• Website design and deployment<br>
+• Video Editing<br>
 • Agile & Scrum methodologies<br>
 • Problem-solving & troubleshooting<br>
 • Debugging & performance tuning
 <br><br>
+Previously, I worked with Ruby on Rails, PHP, C# and various database systems. My background also includes website design, game development and experience working in Agile teams.<br>
+I'm always open to connecting with builders, founders or teams working on meaningful tech.<br>
 In addition to my technical expertise, I am passionate about learning new languages and frameworks. Outside of work, I enjoy designing games, creating websites, and experimenting with new recipes in the kitchen.
-<br><br>
-I am actively seeking opportunities as a Python Developer, Full-Stack Developer, or in roles focused on Django and web application development. Let's connect and discuss how I can contribute to your team!
-</p>
-
 <br>
 <br>
 
